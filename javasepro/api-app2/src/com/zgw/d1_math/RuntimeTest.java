@@ -1,4 +1,4 @@
-package com.zgw.math;
+package com.zgw.d1_math;
 
 import java.io.IOException;
 
