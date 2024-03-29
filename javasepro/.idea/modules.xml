@@ -5,8 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/ATM-system/ATM-system.iml" filepath="$PROJECT_DIR$/ATM-system/ATM-system.iml" />
       <module fileurl="file://$PROJECT_DIR$/api-app/api-app.iml" filepath="$PROJECT_DIR$/api-app/api-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/api-app2/api-app2.iml" filepath="$PROJECT_DIR$/api-app2/api-app2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/api-app3/api-app3.iml" filepath="$PROJECT_DIR$/api-app3/api-app3.iml" />
       <module fileurl="file://$PROJECT_DIR$/array-app/array-app.iml" filepath="$PROJECT_DIR$/array-app/array-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/case-exercise/case-exercise.iml" filepath="$PROJECT_DIR$/case-exercise/case-exercise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection-app/collection-app.iml" filepath="$PROJECT_DIR$/collection-app/collection-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/d1-helloworld-app/d1-helloworld-app.iml" filepath="$PROJECT_DIR$/d1-helloworld-app/d1-helloworld-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/d2-basic-app/d2-basic-app.iml" filepath="$PROJECT_DIR$/d2-basic-app/d2-basic-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/flow-control/flow-control.iml" filepath="$PROJECT_DIR$/flow-control/flow-control.iml" />
