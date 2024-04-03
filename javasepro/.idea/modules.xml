@@ -9,6 +9,7 @@
       <module fileurl="file://$PROJECT_DIR$/array-app/array-app.iml" filepath="$PROJECT_DIR$/array-app/array-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/case-exercise/case-exercise.iml" filepath="$PROJECT_DIR$/case-exercise/case-exercise.iml" />
       <module fileurl="file://$PROJECT_DIR$/collection-app/collection-app.iml" filepath="$PROJECT_DIR$/collection-app/collection-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection-map-stream-app/collection-map-stream-app.iml" filepath="$PROJECT_DIR$/collection-map-stream-app/collection-map-stream-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/d1-helloworld-app/d1-helloworld-app.iml" filepath="$PROJECT_DIR$/d1-helloworld-app/d1-helloworld-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/d2-basic-app/d2-basic-app.iml" filepath="$PROJECT_DIR$/d2-basic-app/d2-basic-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/flow-control/flow-control.iml" filepath="$PROJECT_DIR$/flow-control/flow-control.iml" />
