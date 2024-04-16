@@ -2,7 +2,6 @@ package com.zgw.d2_xml;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
-import java.io.IOException;
 
 public class Test2 {
     public static void main(String[] args) {
